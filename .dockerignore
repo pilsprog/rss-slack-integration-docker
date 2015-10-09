@@ -1,0 +1,5 @@
+config.js*
+docker-compose.yml*
+README.md
+node_modules
+.git

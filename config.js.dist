@@ -1,0 +1,6 @@
+module.exports = {
+  feed: "http://example.com/rss",
+  interval: 60,
+  slackHook: "https://hooks.slack.com/services/<yourservicehash>",
+  slackIcon: "https://example.com/icon.png",
+  slackBotUser: "Bot Username"}

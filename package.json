@@ -1,0 +1,28 @@
+{
+  "name": "rss-slack-integration-docker",
+  "version": "1.0.0",
+  "description": "A dockerified version of rss-slack-integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilsprog/rss-slack-integration-docker.git"
+  },
+  "keywords": [
+    "Docker",
+    "Slack",
+    "RSS"
+  ],
+  "author": "Snorre Magnus Davøen <snorremd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pilsprog/rss-slack-integration-docker/issues"
+  },
+  "homepage": "https://github.com/pilsprog/rss-slack-integration-docker#readme",
+  "dependencies": {
+    "rss-slack-integration": "^1.0.1"
+  }
+}
