@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/pilsprog/rss-slack-integration-docker#readme",
   "dependencies": {
-    "rss-slack-integration": "^1.0.1"
+    "rss-slack-integration": "^1.0.3"
   }
 }
